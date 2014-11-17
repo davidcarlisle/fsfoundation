@@ -83,6 +83,11 @@ libraries listed below. F# can be used to [call into Fortran dynamic-link librar
    (OML) or using C# or F# and other .NET languages. MSF version 3.1 is available in a free
    Express Edition or via an MSDN subscription.
    
+ * [NAG Library](http://www.nag.com/netdevelopers.asp) - .NET support for the NAG Library
+   
+   To do (testing edit) 
+   [Numerical Algorithms Group](http://www.nag.com)
+   
  * [NMath, NMath Stats](http://www.centerspace.net/products/c-sharp-vb-net-math-library-products/) -
    a suite providing core math and statistics functions.
 
